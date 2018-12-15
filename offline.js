@@ -2,7 +2,7 @@
 	"version": 1543708970,
 	"fileList": [
 		"data.js",
-		"c2runtime_V_0_1.js",
+		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
 		"images/card-sheet0.png",

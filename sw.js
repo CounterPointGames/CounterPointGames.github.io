@@ -226,7 +226,7 @@ async function UpdateCheck(isFirst)
 			
 		const data = await response.json();
 		
-		const version = 0;
+		const version = 0.1;
 		const fileList = data.fileList;
 		const lazyLoadList = data.lazyLoad;
 		const currentCacheName = GetCacheVersionName(version);
